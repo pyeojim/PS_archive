@@ -1,0 +1,8 @@
+.DS_Store
+*.dSYM
+.vscode
+
+codeforce/**
+
+!codeforce/**/
+!codeforce/**/*.cpp
